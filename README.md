@@ -32,10 +32,3 @@ In this I have covered:-
 6.Decision Tree Classification
 
 7.Random Forest Classification
-
-## 3.Clustering
-In this I have covered:-
-
-1.K-Means Clustering
-
-2.Hierarchical Clustering
